@@ -1,4 +1,9 @@
-## This returns address, lat, and long of stores or other locations in a specified country.
+"""
+Assignment 2: Google Geocoding
+
+This returns address, lat, and long of stores or other locations in a specified country.
+Must input your own google API key.
+"""
 
 import my_google_keys
 
