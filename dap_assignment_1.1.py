@@ -1,3 +1,7 @@
+"""
+This is was Part 1 of a Python Skills Refresher assignment.
+"""
+
 import string
 
 def preceding(letter):
