@@ -1,3 +1,6 @@
+"""
+This is part 2 of a Python Skills Refresher assignment.
+"""
 import string
 
 text_string = "Hello. How are you? Please say hello if you don't love me!"	
